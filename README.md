@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaviLSBow
 - 👀 I’m interested in videogames, art and music.
-- 🌱 I’m currently learning many different things, and, although my main focus is on videogame development, I'm also practicing my drawing, 3d modeling, composing and singing skills.
+- 🌱 I’m currently learning many different things, and, although my main focus is on videogame development, I'm also practicing 2D art, 3d modeling, composing and singing skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: javilskoopa@gmail.com
 
