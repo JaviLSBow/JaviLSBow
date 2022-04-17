@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: javilskoopa@gmail.com
 
+If you want more information about my academic achievements and skills check my Linkedin ;): https://es.linkedin.com/in/javier-l%C3%B3pez-s%C3%A1nchez-224945208
+
 <!---
 JaviLSBow/JaviLSBow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
